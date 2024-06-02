@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 		scanBasePackages = {
 				"com.example.helloworld.application",
 				"com.example.helloworld.rest",
-				"com.example.helloworld.service"
+				"com.example.helloworld.service",
+				"com.example.helloworld.util"
 		}
 )
 

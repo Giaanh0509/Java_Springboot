@@ -33,4 +33,5 @@ public class NotificationController {
         if (service == service2) return "Singleton";
         else return "Prototype";
     }
+
 }
